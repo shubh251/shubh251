@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi,I'm a self taught Data Analyst and SQL enthusiast from India.
 
-<!--
-**shubh251/shubh251** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am seeking a position to gain real-world experience and exhibit my knowledge and skills to the best of my ability to provide scalable analytical solutions to business problems.
 
-Here are some ideas to get you started:
+Technical Skills:
+ - Python and Python libraries: Numpy, Pandas, Matplotlib, Seaborn
+ - BI Tool: Microsoft Power BI
+ - Databases: PL/SQL
+ - Microsoft Excel: Lookup, Pivot Table, Dashboards
+ - Descriptive Statistics, Hypothesis Testing (Z-test, T-test, Chi-square test)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Other Skills:
+ -Quick Learner, good researcher, keen to explore new technologies.
+ -Effective communicator with strong technical, logical and analytical skills.
+
+Reach me at:
+shubhendu251@gmail.com
